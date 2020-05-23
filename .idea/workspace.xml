@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68dee6d7-7c00-4267-82d4-9af3c652276b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/androidTest/java/com/jrt/bitmap/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/java/com/jrt/bitmap/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/java/com/jrt/bitmap/view/MeshView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/drawable/china.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BitmapMeshTest/src/test/java/com/jrt/bitmap/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/androidTest/java/com/jrt/bottomnavigation/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/java/com/jrt/bottomnavigation/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/java/com/jrt/bottomnavigation/adapter/MyPageAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/drawable-xxhdpi/banner1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/drawable-xxhdpi/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/drawable-xxhdpi/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/drawable-xxhdpi/ic_home_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/drawable-xxhdpi/ic_mycenter_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/drawable-xxhdpi/ic_video_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/BottomNavigationTest/src/test/java/com/jrt/bottomnavigation/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/androidTest/java/com/jrt/flowlayout/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/java/com/jrt/flowlayout/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/java/com/jrt/flowlayout/util/JRTDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/java/com/jrt/flowlayout/util/JRTPopupWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/java/com/jrt/flowlayout/util/TransUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/java/com/jrt/flowlayout/view/CheckableButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/java/com/jrt/flowlayout/view/FlowLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/anim/push_bottom_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/anim/push_bottom_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/color/checkable_text_color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/drawable/bt_cancel_nor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/drawable/bt_cancel_pre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/drawable/bt_cancel_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/drawable/checkable_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/drawable/checkable_background_secondary.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/drawable/checkable_default_border.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/drawable/checkable_selected_border.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/layout/jrt_dialog_loyout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/FlowLayoutTest/src/test/java/com/jrt/flowlayout/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/androidTest/java/com/jrt/gradlayout/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/java/com/jrt/gradlayout/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/java/com/jrt/gradlayout/view/DragGridLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/drawable/item_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/drawable/item_bg_normal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/drawable/item_bg_press.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/GradLayout/src/test/java/com/jrt/gradlayout/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/androidTest/java/com/jrt/imageslidertest/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/java/com/jrt/imageslidertest/ChildAnimationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/java/com/jrt/imageslidertest/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/drawable/banner1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/drawable/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/drawable/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/drawable/banner4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/drawable/banner5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/drawable/bigbang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/drawable/game_of_thrones.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/drawable/hannibal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/drawable/house.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/ImageSliderTest/src/test/java/com/jrt/imageslidertest/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/androidTest/java/com/jrt/refreshxview/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/java/com/jrt/refreshxview/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/java/com/jrt/refreshxview/contact/AutoLoadState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/java/com/jrt/refreshxview/customview/RefreshView/SwipeHeaderView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/java/com/jrt/refreshxview/customview/RefreshView/SwipeRefreshListView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/java/com/jrt/refreshxview/util/imagehandler/ImageHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/anim/my_splash_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/drawable/banner1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/drawable/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/drawable/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/drawable/banner4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/drawable/banner5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/drawable/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/drawable/ic_progress_shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/drawable/ic_progress_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/layout/header_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/layout/view_auto_load.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/RefreshXView/src/test/java/com/jrt/refreshxview/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/androidTest/java/com/jrt/textselectmodetest/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/java/com/jrt/textselectmodetest/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/drawable/all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/drawable/copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/drawable/cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/drawable/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/menu/menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/values/ids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/TextSelectModeTest/src/test/java/com/jrt/textselectmodetest/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/libs/GifView.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/androidTest/java/com/jrt/dome/drawabledome/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/DrawableDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/adapter/MyDrawableListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/base/BaseActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/base/MyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/fragment/BitmapDrawableFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/fragment/ClipDrawableFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/fragment/InsertDrawableFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/fragment/LayerDrawableFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/fragment/LevelListDrawableFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/fragment/StateListDrawableFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/fragment/TransitionDrawableFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/interf/OnRecyclerViewItemClickListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/utils/WindowsUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/java/com/jrt/dome/drawabledome/view/DividerItemDecoration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/drawable-xxhdpi/aa.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/drawable-xxhdpi/bb.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/drawable-xxhdpi/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/drawable-xxhdpi/cc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/drawable/divider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/activity_drawable_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/content_drawable_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/fragment_bitmap_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/fragment_clip_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/fragment_insert_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/fragment_layer_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/fragment_level_list_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/fragment_state_list_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/fragment_transition_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/loading_dialog_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/layout/rec_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/app/src/test/java/com/jrt/dome/drawabledome/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/bintray_lib.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/install_lib.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/BadgeItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/BottomNavigationBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/BottomNavigationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/BottomNavigationItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/BottomNavigationTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/FixedBottomNavigationTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/ShiftingBottomNavigationTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/behaviour/BottomNavBarFabBehaviour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/behaviour/BottomVerticalScrollBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/behaviour/VerticalScrollingBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/java/com/ashokvarma/bottomnavigation/utils/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/res/layout/bottom_navigation_bar_container.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/res/layout/fixed_bottom_navigation_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/res/layout/shifting_bottom_navigation_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/bottom-navigation-bar/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/androidTest/java/com/jrt/customcamera/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/java/com/jrt/customcamera/AutoTakePicturesActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/java/com/jrt/customcamera/Contast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/java/com/jrt/customcamera/CustomCameraActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/java/com/jrt/customcamera/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/java/com/jrt/customcamera/utils/PermisionUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/drawable/bt_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/drawable/bt_bg_nor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/drawable/bt_bg_pre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/drawable/change_bt_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/drawable/re_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/drawable/re_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/layout/activity_auto_take_pictures.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/layout/activity_custom_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/main/res/xml/provider_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/customcameratest/src/test/java/com/jrt/customcamera/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/appcompat_v7_22_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/appcompat_v7_22_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/library_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/library_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/mockable_android_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/picasso_2_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/support_annotations_22_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/support_annotations_22_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/support_v4_22_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/libraries/support_v4_22_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/proguard-rules.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Animations/BaseAnimationInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Animations/DescriptionAnimation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Indicators/PagerIndicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/SliderAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/SliderLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/SliderTypes/BaseSliderView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/SliderTypes/DefaultSliderView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/SliderTypes/TextSliderView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/AccordionTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/BackgroundToForegroundTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/BaseTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/CubeInTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/DefaultTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/DepthPageTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/FadeTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/FlipHorizontalTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/FlipPageViewTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/FlipVerticalTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/ForegroundToBackgroundTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/RotateDownTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/RotateUpTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/StackTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/TabletTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/ZoomInTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/ZoomOutSlideTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/ZoomOutTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Transformers/ZoomRotateOutTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Tricks/FixedSpeedScroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Tricks/InfinitePagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Tricks/InfiniteViewPager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/java/com/daimajia/slider/library/Tricks/ViewPagerEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/res/drawable/indicator_corner_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/res/layout/indicator_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/res/layout/render_type_default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/res/layout/render_type_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/res/layout/slider_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/library/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/androidTest/java/com/itoutiao/news/navigationviewtest/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/java/com/itoutiao/news/navigationviewtest/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/drawable/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/drawable/ic_attetion_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/drawable/ic_authentication.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/drawable/ic_home_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/drawable/ic_mycenter_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/drawable/ic_mycenter_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/drawable/ic_project_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/layout/header_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/menu/nv_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/navigationviewtest/src/test/java/com/itoutiao/news/navigationviewtest/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/ScreenRecord_2017-03-16-11-05-28.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/ScreenRecord_2017-03-16-11-11-42.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/ScreenRecord_2017-03-16-11-22-31.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/ScreenRecord_2017-03-16-13-36-20.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/hongqi.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/image9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/raw/result.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidDemoGather/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/customcameratest/customcameratest.iml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_25_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_25_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_25_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_25_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_25_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_25_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_25_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_25_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_25_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_25_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_2_2_2_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_2_2_2_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_exposed_instrumentation_api_publish_0_5_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_0_5_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_0_5_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="811" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="custom-camera-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="custom-camera-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="customcameratest" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="customcameratest" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68dee6d7-7c00-4267-82d4-9af3c652276b" name="Default Changelist" comment="" />
+      <created>1590213567309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590213567309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.23819743" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" weight="0.45479834" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32962447" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32962447" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Flutter Performance" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gradle/vcs-1/gc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

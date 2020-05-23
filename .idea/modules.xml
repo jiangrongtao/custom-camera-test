@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/custom-camera-test.iml" filepath="$PROJECT_DIR$/custom-camera-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customcameratest/customcameratest.iml" filepath="$PROJECT_DIR$/customcameratest/customcameratest.iml" />
+    </modules>
+  </component>
+</project>
